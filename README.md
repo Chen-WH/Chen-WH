@@ -15,6 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 SJTU/ME 本科生
-- 🌱 讨论问题比较多，不喜欢争论问题，欢迎一切友好的交流。
-- 👯 现阶段在摸索机器人学，最近主要是阅读控制、优化算法方面书籍。
+- 🌱 讨论问题比较多，不喜欢争论问题。
 - 💬 个人博客[link](https://chen-wh.github.io)
