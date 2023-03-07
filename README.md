@@ -16,4 +16,3 @@ Here are some ideas to get you started:
 -->
 - 🔭 SJTU/ME 本科生
 - 🌱 讨论问题比较多，不喜欢争论问题。
-- 💬 个人博客[link](https://chen-wh.github.io)
