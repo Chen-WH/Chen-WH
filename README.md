@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 SJTU/ME 本科生
+- 🔭 SJTU/ME 机器人所博士牲
 - 🌱 讨论问题比较多，不喜欢争论问题。
