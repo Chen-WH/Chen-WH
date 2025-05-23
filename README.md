@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 SJTU/ME Robotics
-- 🌱 讨论问题比较多，不喜欢争论问题。
+- 🔭 I am currently a Ph.D. candidate at the Robotics Institute, School of Mechanical Engineering, Shanghai Jiao Tong University.
+- 🌱 My research focuses on robot manipulation planning and control algorithms.
